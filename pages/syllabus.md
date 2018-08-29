@@ -33,7 +33,7 @@ None. Instead, we have a list of recommended readings on the web site.
 
 #### Course Communication
 We will use Slack to organize course discussions. Each lecture will have a channel that
-will be monitored by the TAs during class. Feel free to ask questions during class, or anytime. [Join Slack here!](https://join.slack.com/t/bst260-fall2017/shared_invite/MjMxMjQ1ODk2NTYxLTE1MDM2Njk0NDgtYTUxNzIyNGE3ZQ) More information on how to use Slack is posted on our [Resources](http://datasciencelabs.github.io/pages/resources.html) page.
+will be monitored by the TAs during class. Feel free to ask questions during class, or anytime. [Join Slack here!](https://join.slack.com/t/bst260-fall2018/shared_invite/enQtNDI2MTQyOTI4MzExLTdiODVhMjA2MmZkMTcyMDM1ZjI4YTYzNzEyYTAwOGE1YzBlOTU1MWI3N2Q1NzRjZWViYmJlMTg2MDM3ZThmNjg) More information on how to use Slack is posted on our [Resources](http://datasciencelabs.github.io/pages/resources.html) page.
 
 #### Schedule 
 
