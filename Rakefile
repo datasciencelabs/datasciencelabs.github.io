@@ -307,4 +307,3 @@ end
 
 #Load custom rake scripts
 Dir['_rake/*.rake'].each { |r| load r }
-gem "github-pages", group: :jekyll_plugins
