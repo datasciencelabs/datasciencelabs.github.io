@@ -39,4 +39,4 @@ will be monitored by the TAs during class. Feel free to ask questions during cla
 
 This is a **TENTATIVE** schedule for the course. 
 
-<iframe src="https://docs.google.com/spreadsheets/d/1lnqOXCAOqYrIrvtqOesWbi2G6aVdH5NUz6j2_Liptlk/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="800"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1IlChrDNueARVVTcMapZ72xLP4VDTbQPRQQn4L0FKf3I/edit?usp=sharing;single=true&amp;widget=true&amp;headers=false" width="100%" height="800"></iframe>
