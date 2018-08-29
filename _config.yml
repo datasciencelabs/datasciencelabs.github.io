@@ -15,7 +15,8 @@ author :
   github : 
   twitter :
   feedburner : nil
-
+baseurl: ""
+url: "https://datasciencelabs.github.io"
 production_url : http://datasciencelabs.github.io
 
 # Tell Github to use the kramdown markdown interpreter
