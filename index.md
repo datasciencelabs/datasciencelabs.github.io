@@ -17,7 +17,7 @@ title: Introduction to Data Science
 #### Staff
 
 * Daniel Briggs
-* Kareem Karr
+* Kareem Carr
 * Irina Degtiar
 * Helian Feng
 * Greyson Liu
