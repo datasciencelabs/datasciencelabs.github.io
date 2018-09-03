@@ -37,6 +37,6 @@ will be monitored by the TAs during class. Feel free to ask questions during cla
 
 #### Schedule 
 
-This is a **TENTATIVE** schedule for the course. 
+As topics are discussed in class, links to the lecture material will be posted below.
 
-<iframe src="https://docs.google.com/spreadsheets/d/1IlChrDNueARVVTcMapZ72xLP4VDTbQPRQQn4L0FKf3I/edit?usp=sharing;single=true&amp;widget=true&amp;headers=false" width="100%" height="800"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSrNt7viwxbg-gE62rdPQ9dW1OcvJ_aDTuJ0l9dfQ-Qv802Yxfqdzbu73zDPveG7mUiAqFnLp7-GyMr/pubhtml?gid=0&single=true" width="100%" height="800"></iframe>
