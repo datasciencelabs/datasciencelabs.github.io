@@ -14,7 +14,7 @@ title: Introduction to Data Science
 
 * Heather Mattie, Biostatistics, HSPH
 * hemattie@hsph.harvard.edu
-* Building II Room 421A, Office Hour TBD
+* Building II Room 421A, Office Hour: Tuesdays 1-2pm
 
 #### Staff
 
