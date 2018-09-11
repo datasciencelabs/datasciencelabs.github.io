@@ -26,4 +26,14 @@ title: Introduction to Data Science
 * Andy Shi (andyshi@g.harvard.edu)
 
 #### Office Hours
-* TBD
+* Monday:
+  * 12:30-1:30pm
+  * 1:30-2:30pm
+  
+* Tuesday:
+  * 1-2pm Heather's office
+  * 2-3pm
+ 
+* Wednesday:
+  * 12-1pm
+  * 1-2pm
