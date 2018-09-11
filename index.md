@@ -37,3 +37,6 @@ title: Introduction to Data Science
 * Wednesday:
   * 12-1pm
   * 1-2pm
+  
+* Friday:
+  * 1-2pm
