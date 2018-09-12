@@ -27,16 +27,17 @@ title: Introduction to Data Science
 
 #### Office Hours
 * Monday:
-  * 12:30-1:30pm
-  * 1:30-2:30pm
+  * 12:30-1:30pm (Kareem, Heather's office)
+  * 1:30-2:30pm (Daniel, Heather's office)
   
 * Tuesday:
-  * 1-2pm Heather's office
-  * 2-3pm
+  * 1-2pm (Heather, Heather's office)
+  * 2-3pm (Andy, Building II 4th floor Room 428)
  
 * Wednesday:
-  * 12-1pm
-  * 1-2pm
+  * 12-1pm (Irina, Building II 4th floor Room 434)
+  * 1-2pm (Greyson, Building II 4th floor Room 401)
   
 * Friday:
-  * 1-2pm
+  * 1-2pm (Helian, Building II 4th floor Room 428)
+  * The only exception is this Friday, September 14 - no office hours will be held
