@@ -82,7 +82,7 @@ The final project screencast is due Sunday, December 16 by 11:59pm. For instruct
 3. Email your TA instructions on where to access the data and the location of your GitHub repository.
 
 #### How to submit the Peer Assessment (due Sunday, December 16)
-Each individual team member needs to fill out this [google form for the peer evaluation](https://docs.google.com/forms/d/e/1FAIpQLScqi_wjyFF282MjzUd5SuCUk23lbDMyYPRfUvB8sMY12xrzYQ/viewform?usp=sf_link). Your individual project score will take into account your self and peer assessment.
+Each individual team member needs to fill out this [google form for the peer evaluation](https://docs.google.com/forms/d/e/1FAIpQLSdvIVkiBrb0rctkYVkkkVUgjiHUhZr9YZrVeqVYuQg-ePAOFg/viewform?usp=sf_link). Your individual project score will take into account your self and peer assessment.
 
 #### How to submit the Website and Screencast (due Sunday, December 16)
 Fill out this [google form to submit the links to the website and screencast](https://docs.google.com/forms/d/e/1FAIpQLSevJ0znNzbZxzkllRoMgJy-SNmLPu3i8o7b8zmgM6p9rw829w/viewform?usp=sf_link). *If we cannot access the website or screencast, we cannot grade it*.
