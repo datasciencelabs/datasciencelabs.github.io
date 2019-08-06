@@ -13,18 +13,18 @@ There are a few milestones for your final project. **It is critical to note that
 
 | Date       | Description |
 | ------------- |-------------|
-| November 5      | Form a team and submit a project proposal |
-| November 6 - 19| Project review meeting with your TA |
-| December 16 by 11:59pm | RMarkdown and compiled HTML due |
-| December 16 by 11:59pm | Peer assessment due |
-| December 16 by 11:59pm | Project webpage and screencast due |
-| December 19 | Project screencasts shown and best project prizes | 
+| November 4 by 11:50pm  | Form a team and submit a project proposal |
+| November 4 - 18| Project review meeting with your assigned TA |
+| December 15 by 11:59pm | RMarkdown and compiled HTML due |
+| December 15 by 11:59pm | Peer assessment due |
+| December 15 by 11:59pm | Project webpage and screencast due |
+| December 18 | Project screencasts shown and best project prizes | 
 
 ## Deliverables
 There are several deliverables for your project that will be graded individually to make up your final project score.
 
 ### Team Registration and Proposal
-You start by filling out this google form to define your teams and project proposal. [This form](https://docs.google.com/forms/d/e/1FAIpQLSeKl0EhsNLPV1Iamja56qlLj8sfXKtHTtS-O_R_rNnvvzB45g/viewform?usp=sf_link) should be filled out by Monday November 5, 2018 at 11:59pm. The title can be changed at a later date. Each team (or individual if working alone) will only need to submit one form. Based on your proposals, a TA will be assigned to your team who will guide you through the rest of the project. You will schedule a project review meeting with your TA within the following two weeks (November 6-19, 2017). Make sure all of your team members are present at the meeting.
+You start by filling out this google form to define your teams and project proposal. [This form](https://docs.google.com/forms/d/e/1FAIpQLSfJa1nwpIemHYKI0QYgfZmskJrlC23p68dpvhdIy4Mu6lJFyA/viewform?usp=sf_link) should be filled out by Monday November 4, 2018 at 11:59pm. The title can be changed at a later date. Each team (or individual if working alone) will only need to submit one form. Based on your proposals, a TA will be assigned to your team who will guide you through the rest of the project. You will schedule a project review meeting with your TA within the following two weeks (November 4-18, 2017). Make sure all of your team members are present at the meeting.
 
 ### RMarkdown and HTML Files
 An important part of your project is the RMarkdown and HTML files. This will detail your steps in developing your solution, including how you collected the data, alternative solutions you tried, describing statistical methods you used, and the insights you got. Equally important to your final results is how you got there! Your RMarkdown and HTML files are the place you describe and document the space of possibilities you explored at each step of your project. We strongly advise you to include many visualizations.
@@ -43,7 +43,7 @@ Your RMarkdown should include the following topics. Depending on your project ty
 
 * **Final Analysis**: What did you learn about the data? How did you answer the questions? How can you justify your answers?
 
-As this will be your only chance to describe your project in detail, make sure that your RMarkdown file and compiled HTML file are standalone documents that fully describe your process and results. The RMarkdown and HTML files are due Sunday, December 16 by 11:59pm. For instructions on how to submit, please see **Submission Instructions** below.
+As this will be your only chance to describe your project in detail, make sure that your RMarkdown file and compiled HTML file are standalone documents that fully describe your process and results. The RMarkdown and HTML files are due Sunday, December 15 by 11:59pm. For instructions on how to submit, please see **Submission Instructions** below.
 
 ### Code
 We expect you to write high-quality and readable R code in your RMarkdown file. You should strive for doing things the right way and think about aspects such as reproducibility, efficiency, cleaning data, etc. We also expect you to document your code.
@@ -59,12 +59,12 @@ It is important to provide positive feedback to people who truly worked hard for
 
 * **Flexibility**: were they flexible when disagreements occurred?
 
-Your teammates' assessment of your contributions and the accuracy of your self-assessment will be considered as part of your overall project score. The peer assessment is due Sunday, December 13 by 11:59pm. For instructions on how to submit, please see **Submission Instructions** below.
+Your teammates' assessment of your contributions and the accuracy of your self-assessment will be considered as part of your overall project score. The peer assessment is due Sunday, December 15 by 11:59pm. For instructions on how to submit, please see **Submission Instructions** below.
 
 ### Project Website
 You will create a public website for your project using [Google Sites](https://sites.google.com/a/g.harvard.edu?pli=1) or Github Pages or any other web hosting service of your choice. The website should effectively summarize the main results of your project and tell a story. Consider your audience (the site is public) and keep the level of discussion at the appropriate level. Your RMarkdown file, HTML file and data should be linked from your GitHub Repository (see below) to the web site as well. Also embed your main visualizations and your screencast in your website.
 
-The final project website is due Sunday, December 16 by 11:59pm. For instructions on how to submit, please see Submission Instructions below.
+The final project website is due Sunday, December 15 by 11:59pm. For instructions on how to submit, please see Submission Instructions below.
 
 
 ### Project Screencast
@@ -72,20 +72,20 @@ Each team will create a **two minute screencast with narration** showing a demo 
 
 We will **strictly enforce the two minute time limit for the video**, so please make sure you are not running longer. Use principles of good storytelling and presentations to get your key points across. Focus the majority of your screencast on your main contributions rather than on technical details. What do you feel is the best part of your project? What insights did you gain? What is the single most important thing you would like your audience to take away? Make sure it is upfront and center rather than at the end.
 
-The final project screencast is due Sunday, December 16 by 11:59pm. For instructions on how to submit, please see Submission Instructions below.
+The final project screencast is due Sunday, December 15 by 11:59pm. For instructions on how to submit, please see Submission Instructions below.
 
 
 ## Submission Instructions
-#### How to submit RMarkdown and HTML files (due Sunday, December 16)
+#### How to submit RMarkdown and HTML files (due Sunday, December 15)
 1. Create a GitHub repository which should include the data used for the final project, the RMarkdown file and the compiled HTML file. If the data are too big to fit in the repository, make the data accessible somewhere online (google drive, downloadable link, etc). Inside the RMarkdown file at the top, include instructions on where to access the data. If we cannot access your work or links because these directions are not followed correctly, we will not grade your work.
 2. You should only have one GitHub repository per team, but make sure the names of all group members are inside the RMarkdown file at the top.
 3. Email your TA instructions on where to access the data and the location of your GitHub repository.
 
-#### How to submit the Peer Assessment (due Sunday, December 16)
-Each individual team member needs to fill out this [google form for the peer evaluation](https://docs.google.com/forms/d/e/1FAIpQLSdvIVkiBrb0rctkYVkkkVUgjiHUhZr9YZrVeqVYuQg-ePAOFg/viewform?usp=sf_link). Your individual project score will take into account your self and peer assessment.
+#### How to submit the Peer Assessment (due Sunday, December 15)
+Each individual team member needs to fill out this [google form for the peer evaluation](https://docs.google.com/forms/d/e/1FAIpQLSds53_QKwh9lUB4uF2k3jKAs1DaCQLt4cTvuY7OAQLR1yJx4A/viewform?usp=sf_link). Your individual project score will take into account your self and peer assessment.
 
-#### How to submit the Website and Screencast (due Sunday, December 16)
-Fill out this [google form to submit the links to the website and screencast](https://docs.google.com/forms/d/e/1FAIpQLSevJ0znNzbZxzkllRoMgJy-SNmLPu3i8o7b8zmgM6p9rw829w/viewform?usp=sf_link). *If we cannot access the website or screencast, we cannot grade it*.
+#### How to submit the Website and Screencast (due Sunday, December 15)
+Fill out this [google form to submit the links to the website and screencast](https://docs.google.com/forms/d/e/1FAIpQLSen2RDBvkuecQ3VspFmlnr2s23nZHI5Iwpn4_-vJXm6ZIDNYg/viewform?usp=sf_link). *If we cannot access the website or screencast, we cannot grade it*.
 
 
 ## Grading
@@ -94,8 +94,8 @@ The final project is graded in two parts:
 1. Final Project Part I (worth 10% of total grade). This portion represents the Team Registration and Final Project Proposal which is due November 5 by 11:59pm.
 
 2. Final Project Part II (worth 25% of total grade). This portion will be split into two sub-portions:
-	* 80% of the Final Project Part II will be based on your RMarkdown and HTML files in your GitHub repository. This includes the quality of your data analysis and R code, the complexity and level of difficulty of your project, completeness and overall functionality of your analysis. This sub-portion (and peer assessment) is due Sunday, December 16 by 11:59pm.
-	* 20% of the Final Project Part II will be based on your web site and screencast and the quality of their storytelling aspects. This sub-portion is due Sunday, December 16 by 11:59pm.
+	* 80% of the Final Project Part II will be based on your RMarkdown and HTML files in your GitHub repository. This includes the quality of your data analysis and R code, the complexity and level of difficulty of your project, completeness and overall functionality of your analysis. This sub-portion (and peer assessment) is due Sunday, December 15 by 11:59pm.
+	* 20% of the Final Project Part II will be based on your web site and screencast and the quality of their storytelling aspects. This sub-portion is due Sunday, December 15 by 11:59pm.
 
 Your individual project score will also be determined by your peer evaluations.
 
