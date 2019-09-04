@@ -62,4 +62,4 @@ title: Introduction to Data Science
 
 * Friday:
 
-  * 11:30-1pm (Andy, FXB G13)
+  * 11:30-1pm (Andy, FXB G13) - except 9/20, will be in Kresge G1
