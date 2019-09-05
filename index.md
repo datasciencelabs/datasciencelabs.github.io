@@ -58,6 +58,7 @@ title: Introduction to Data Science
 
 * Thursday:
 
+  * 11:30-1pm (Eric, FXB G03)
   * 3:45-5:15pm (Greyson, FXB G11)
 
 * Friday:
