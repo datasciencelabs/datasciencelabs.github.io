@@ -56,11 +56,6 @@ title: Introduction to Data Science
 
   * 2-3:30pm (Rolando, Kresge LL6)
 
-* Thursday:
-
-  * 11:30-1pm (Eric, FXB G03)
-  * 3:45-5:15pm (Greyson, FXB G11)
-
 * Friday:
 
   * 11:30-1pm (Andy, FXB G13) - except 9/20, will be in Kresge G1
