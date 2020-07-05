@@ -3,7 +3,8 @@ layout: page
 title: Syllabus
 ---
 
-Unprecedented advances in digital technology during the second half of the 20th century is transforming science, including health and biomedical research. Scientific fields that have traditionally relied upon simple data analysis techniques of smaller datasets have been transformed recently by technologies that continue to expand the possibilities of observing and deciphering molecular entities in an unprecedented way. This course includes concepts from Statistics, Computer Science and Software Engineering. We will learn the necessary skills to manage and analyze data. We will learn concepts such as exploratory data analysis, statistical inference and modeling, machine learning, and high-dimensional data analysis. We will also learn the necessary skills to develop data products including R programming, data wrangling, reproducible research, and communicating results.
+Unprecedented advances in digital technology during the second half of the 20th and beginning of the 21st centuries is transforming science, including health and biomedical research. Scientific fields that have traditionally relied upon simple data analysis techniques of smaller datasets have been transformed by technologies that continue to expand the possibilities of observing and deciphering massive amounts of data in an unprecedented way. This course includes concepts from Statistics, Computer Science and Software Engineering. We will learn the necessary skills to manage, visualize and analyze data. We will learn concepts such as exploratory data analysis, statistical inference and modeling, machine learning, and visualization. We will also learn the necessary skills to develop data products including R programming, data wrangling, reproducible research, and communicating results.
+
 
 #### Why take this course?
 The goal of this course is to teach students how to answer questions with data. To do this, we will learn the necessary skills to manage and analyze data with case studies. We will learn concepts such as exploratory data analysis, statistical inference and modeling, machine learning, and high-dimensional data analysis. We will also learn the necessary skill to develop data products including R programming, data wrangling, reproducible research, and communicating results. All class material will be motivated with real life examples involving data. We will use the R programming language. 
@@ -11,19 +12,40 @@ The goal of this course is to teach students how to answer questions with data. 
 #### What is the structure of this course?
 We will learn these concepts through six data analysis projects. Grades will be based on:
 
-* 5-6 homeworks (35%)
-* 2 midterms (30%)
+* 5 homeworks (40%)
+* 2 "take-home" midterm (25%)
 * 1 final project (35%)
 
 
-#### Late Day Policy
+#### Homework Assignments
+All homework assignments will involve writing code and communicating results. **Students must submit the RMarkdown file and knitted html file associated with each assignment in their individual repository**. A private repository for each assignment will be created for each student and will only be visible to the student and course teaching staff. 
 
-Each student is given six late days for homework at the beginning of the semester. A late day extends the individual homework deadline by 24 hours without penalty. No more than two late days may be used on any one assignment. Assignments handed in more than 48 hours after the original deadline will not be graded. We do not accept any homework under any circumstances more than 48 hours after the original deadline. Late days are intended to give you flexibility: you can use them for any reason no questions asked. You don't get any bonus points for not using your late days. Also, you can only use late days for the individual homework deadlines all other deadlines (e.g., project milestones) are hard.
+Each student is given **six total late days for homework** at the beginning of the semester. A late day extends the individual homework deadline by 24 hours without penalty. **No more than two late days may be used on any one assignment.** Late days are intended to give students flexibility: students can use them for any reason, no questions asked. Student don’t get any bonus points for not using late days. Also, students can only use late days for the individual homework deadlines - all other deadlines (e.g., project milestones, midterm exam) are hard.
 
-Although the each student is only given a total of 6 late days, we will be accepting homework from students that pass this limit. However, we will be deducting 2 points for each extra late day. For example, if you have already used all of your late days for the semester, we will deduct 2 points for assignments <24 hours late, and 4 points for assignments 24-48 hours late. 
+Although each student is only given a total of 6 late days, we will be accepting homework from students that pass this limit. However, we will be deducting 10% (10 points) for each extra late day. For example, if all late days for the semester have been used, we will deduct 10 points for assignments <24 hours late, and 20 points for assignments 24-48 hours late.
+
+**Due to the unpredictable nature of COVID-19 students in need of extra time to complete assignments should reach out to Student Affairs at StudentAffairs@hsph.harvard.edu. A staff member will work with you and Dr. Mattie to accommodate you. You can also contact Student Affairs if you have a learning disability that requires accommodations. We will ensure you are accommodated as needed.**
+
+The TAs must be able to knit submitted RMarkdown files. The penalty for not being able to knit a file while grading increases for each subsequent homework – see breakdown below. To avoid this, students should be sure to include relative paths to files, data, images, etc. rather than absolute paths. Examples of how to include paths will be given in lecture and lab sessions. Students may also double check with the teaching staff before submitting assignments. 
+
+* 0 points for HW1
+* 5 points for HW2
+* 10 points for HW3
+* 15 points for HW4
+* 20 points for HW5
+
+**Students may ask questions about the assignments during lecture, but we ask that any questions about grading be directed to the TAs or Dr. Mattie outside of lecture and lab sessions via email.**
+
+#### Take-home Midterm
+A take-home midterm will be distributed in the form of an RMarkdown file in October (date TBD) to test comprehension of course material. The exam will consist of multiple-choice questions that may or may not require writing code, coding questions and short answer questions. All code used and text answers must be submitted using the RMarkdown file. Students will have 1 week to work on the exam and must submit the exam via Canvas by 11:59pm on the deadline (TBD). **Students are encouraged to use lecture slides and code, lab material, homework assignments and the Internet to work on the exam, but may not work or consult with other students. The teaching staff will be available to answer any questions concerning the exam.** 
+
+**Due to the unpredictable nature of COVID-19 students in need of extra time to complete assignments should reach out to Student Affairs at StudentAffairs@hsph.harvard.edu. A staff member will work with you and Dr. Mattie to accommodate you. You can also contact Student Affairs if you have a learning disability that requires accommodations. We will ensure you are accommodated as needed.**
+
+### Final Project 
+See [Project](https://datasciencelabs.github.io/pages/projects.html) tab on course website.
 
 #### Prerequisites
-Must have basic programming knowledge, and statistics knowledge at the level of Stat 100 or above
+Must have basic programming knowledge, and statistics knowledge at the level of Stat 100 or above.
 
 #### Required Textbook
 None. Instead, we have a list of recommended readings on the web site.
@@ -33,7 +55,7 @@ None. Instead, we have a list of recommended readings on the web site.
 
 #### Course Communication
 We will use Slack to organize course discussions. Each lecture will have a channel that
-will be monitored by the TAs during class. Feel free to ask questions during class, or anytime. [Join Slack here!](https://join.slack.com/t/bst260-2019/shared_invite/enQtNzQ3MzYxOTc5MTU3LTRjODdhNmU3NDAwZjdmOTQ0ZjE5YWU3MTNjNWQxYzY5OGU0ZmE2NjU5YmVjZDNhZDgzMDgwM2JjZDZjYjYyM2Y) More information on how to use Slack is posted on our [Resources](http://datasciencelabs.github.io/pages/resources.html) page.
+will be monitored by the TAs during class. Feel free to ask questions during class, or anytime. [Join Slack here!](https://join.slack.com/t/bst260fall2020/shared_invite/zt-flzcn6ia-Z0JUhWMXjq0tRZUe5thaBw) More information on how to use Slack is posted on our [Resources](http://datasciencelabs.github.io/pages/resources.html) page.
 
 #### Schedule 
 
