@@ -12,7 +12,8 @@ title: Introduction to Data Science
 
 #### Instructor
 
-* Heather Mattie
+Heather Mattie
+
 * Lecturer on Biostatistics, HCSPH
 * Email: hemattie@hsph.harvard.edu
 * Office: Building I, 4th floor, Room 421A 
