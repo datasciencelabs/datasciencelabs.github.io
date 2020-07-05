@@ -16,11 +16,11 @@ There are a few milestones for the final project. **It is critical to note that
 
 | Date       | Description |
 | ------------- |-------------|
-| November 2 by 11:50pm  | Form a team and submit a project proposal |
+| November 2 by 11:59pm EST| Form a team and submit a project proposal |
 | November 2 - 20| Project review meeting with your assigned TA |
-| December 13 by 11:59pm | RMarkdown and compiled HTML due |
-| December 13 by 11:59pm | Peer assessment due |
-| December 13 by 11:59pm | Project webpage and screencast due |
+| December 13 by 11:59pm EST| RMarkdown and compiled HTML due |
+| December 13 by 11:59pm EST| Peer assessment due |
+| December 13 by 11:59pm EST| Project webpage and screencast due |
 | December 16 | Project screencasts shown and best project prizes | 
 
 ## Deliverables
