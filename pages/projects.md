@@ -45,7 +45,7 @@ The RMarkdown file should include the following topics. Depending on the project
 
 * **Exploratory Analysis**: What visualizations did you use to look at your data in different ways? What are the different statistical methods you considered? Justify the decisions you made, and show any major changes to your ideas. How did you reach these conclusions?
 
-* **Final Analysis**: What did you learn about the data? How did you answer the questions? How can you justify your answers?
+* **Final Analysis**: What did you learn about the data? How did you answer the questions? How can you justify your answers? **Note that 1 type of analysis per team member is required. A Shiny app counts as a type of analysis.**
 
 As this will be your only chance to describe your project in detail, make sure that your RMarkdown file and compiled HTML file are standalone documents that fully describe your process and results. The RMarkdown and HTML files are due Sunday, December 13 by 11:59pm EST. For instructions on how to submit, please see **Submission Instructions** below.
 
