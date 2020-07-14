@@ -61,4 +61,4 @@ will be monitored by the TAs during class. Feel free to ask questions during cla
 
 As topics are discussed in class, links to the lecture material will be posted below.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTlhT10q368Wujmbf9DdQDpaaVjW5DLh2O7nDvo1If9kvLsTnHuxN4_NdelM9n6-kD6vk_z4zcA-WKs/pubhtml?gid=0&single=true" width="100%" height="800"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR4ZO2Uw212EWnfKNRPa2Xx2t_HxGRg8r0X-FddEHhNZf5959S8z-uHtK_q8-A7ZBYNPNeqb7KkyXwm/pubhtml?gid=0&single=true" width="100%" height="800"></iframe>
