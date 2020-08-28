@@ -7,7 +7,7 @@ Students will work on a month-long data science project. The goal of the project
 
 
 ### Project Team
-Students may work individually or as part of a team. If part of a team, students will work closely with other classmates (a maximum of 4 students per team) on this project. Canvas or Slack can be used to find prospective team members. Students unable to find a team can work individually. In general, we do not anticipate that the grades for each group member will be different. However, we reserve the right to assign different grades to each group member based on peer assessments (see below).
+Students may work in teams of 2-4. Students will work closely with other classmates on this project. Canvas or Slack can be used to find prospective team members. In general, we do not anticipate that the grades for each group member will be different. However, we reserve the right to assign different grades to each group member based on peer assessments (see below).
 
 
 ### Project Milestones
@@ -27,7 +27,7 @@ There are a few milestones for the final project. **It is critical to note that
 There are several deliverables for your project that will be graded individually to make up your final project score.
 
 ### Team Registration and Proposal
-Students start by filling out a google form to define your teams and project proposal. [This form](https://docs.google.com/forms/d/e/1FAIpQLSfKu07JiCL02uiiDWI4Jtxp-1rkrP2zJ5VnP1aYmGt_qBMCPA/viewform?usp=sf_link) should be filled out by 11:59pm EST on Monday November 2, 2020. The title and other projects may be changed at a later date if needed. Each team (or individual if working alone) will only need to submit one form. Based on the proposal, a TA will be assigned to each team or individual and will guide students through the rest of the project. Students will schedule a project review meeting with their assigned TA within the following three weeks (November 2-20, 2020). Students should ensure all of your team members are present at the meeting.
+Students start by filling out a google form to define your teams and project proposal. [This form](https://docs.google.com/forms/d/e/1FAIpQLSfKu07JiCL02uiiDWI4Jtxp-1rkrP2zJ5VnP1aYmGt_qBMCPA/viewform?usp=sf_link) should be filled out by 11:59pm EST on Monday November 2, 2020. The title and other projects may be changed at a later date if needed. Each team will only need to submit one form. Based on the proposal, a TA will be assigned to each team and will guide students through the rest of the project. Students will schedule a project review meeting with their assigned TA within the following three weeks (November 2-20, 2020). Students should ensure all of your team members are present at the meeting.
 
 ### RMarkdown and HTML Files
 An important part of the project is the RMarkdown and associated HTML file. These will detail the steps taken in developing a solution(s), including how students collected the data, alternative solutions tried, statistical methods used, and insights. Equally important to the final results is how the team got there! The RMarkdown and HTML files are the place you describe and document the space of possibilities explored at each step of the project. We strongly advise you to include many visualizations.
@@ -63,7 +63,7 @@ It is important to provide positive feedback to people who truly worked hard for
 
 * **Flexibility**: were they flexible when disagreements occurred?
 
-Your teammates' assessment of your contributions and the accuracy of your self-assessment will be considered as part of your overall project score. The peer assessment is due Sunday, December 13 by 11:59pm EST. For instructions on how to submit, please see **Submission Instructions** below. **Note: individuals working alone do not need to submit a peer assessment.**
+Your teammates' assessment of your contributions and the accuracy of your self-assessment will be considered as part of your overall project score. The peer assessment is due Sunday, December 13 by 11:59pm EST. For instructions on how to submit, please see **Submission Instructions** below. 
 
 ### Project Website
 You will create a public website for your project using [Google Sites](https://sites.google.com/a/g.harvard.edu?pli=1) or Github Pages or any other web hosting service of your choice. The website should effectively summarize the main results of your project and tell a story. Consider your audience (the site is public) and keep the level of discussion at the appropriate level. Your RMarkdown file, HTML file and data should be linked from your GitHub Repository (see below) to the web site as well. Also embed your main visualizations and your screencast in your website.
@@ -84,9 +84,10 @@ The final project screencast is due Sunday, December 13 by 11:59pm EST. For inst
 1. Create a GitHub repository which should include the data used for the final project, the RMarkdown file and the compiled HTML file. If the data are too big to fit in the repository, make the data accessible somewhere online (google drive, downloadable link, etc). Inside the RMarkdown file at the top, include instructions on where to access the data. If we cannot access your work or links because these directions are not followed correctly, we will not grade your work.
 2. You should only have one GitHub repository per team, but make sure the names of all group members are inside the RMarkdown file at the top.
 3. Email your TA instructions on where to access the data and the location of your GitHub repository.
+4. Add text to the README file to help visitors and the TAs navigate your repository.
 
 #### How to submit the Peer Assessment (due Sunday, December 13 by 11:59pm EST)
-Each individual team member needs to fill out this [google form for the peer evaluation](https://docs.google.com/forms/d/e/1FAIpQLSeh3GdloyLVYfDE0-QnmT_X5wiER6bGhHWC9pEduiJIrIBn1A/viewform?usp=sf_link). Your individual project score will take into account your self and peer assessment. **Students working alone do NOT need to submit a peer assessment.**
+Each individual team member needs to fill out this [google form for the peer evaluation](https://docs.google.com/forms/d/e/1FAIpQLSeh3GdloyLVYfDE0-QnmT_X5wiER6bGhHWC9pEduiJIrIBn1A/viewform?usp=sf_link). Your individual project score will take into account your self and peer assessment. 
 
 #### How to submit the Website and Screencast (due Sunday, December 13 by 11:59pm EST)
 Fill out this [google form to submit the links to the website and screencast](https://docs.google.com/forms/d/e/1FAIpQLSc9jnOk1X0o1tfzyFksnqHgAGrE_Px3LcsVB7yd5IFTw8kr3w/viewform?usp=sf_link). *If we cannot access the website or screencast, we cannot grade it*.
