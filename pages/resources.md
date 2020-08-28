@@ -13,3 +13,6 @@ Several channels have been set up for specific parts of the course. Links to the
 
 There is also an [#anonymous](https://bst260-2019.slack.com/messages/anonymous) channel that you can use if you'd like to ask a question or provide a comment anonymously. To have a post appear anonymously in this channel, compose a direct message **to yourself** (by clicking on your username in the 'Direct Messages' menu on the left panel) that begins with <span style="color:red">`/anon #anonymous your question`</span>. Then the text <span style="color:red">`your question`</span> will be sent to the #anonymous channel by the anonymous bot. 
 
+#### Harvard VPN
+Harvard offers a VPN for students unable to connect to certain websites. You can find details [here](https://harvard.service-now.com/ithelp?id=kb_article&sys_id=f1a542efdb90d7c483a2f3f7bf9619ec).
+
