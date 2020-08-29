@@ -22,9 +22,13 @@ Heather Mattie
 
 #### Teaching Assistants
 Andy Shi (andyshi@g.harvard.edu)
+
 Jane Liang (jwliang@g.harvard.edu)
+
 Kareem Carr (kareemcarr@g.harvard.edu)
+
 Lara Maleyeff (lmaleyeff@g.harvard.edu)
+
 Santiago Romero-Brufau (santiagoromerobrufau@hsph.harvard.edu)
 
 #### Office Hours
