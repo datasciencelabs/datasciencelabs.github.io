@@ -29,9 +29,25 @@ Heather Mattie
 
 
 #### Office Hours
-TBD
+Monday: 
+  * 11:30-12:30pm (Kareem)
+  * 7-8pm (Santiago)
+  * 8-9pm (Heather)
+  
+Tuesday:
+  * 1-2pm (Heather)
+  
+Wednesday:
+  * 1-2pm (Jane)
+  
+Thursday:
+  * 8-9am (Lara)
+  
+Friday:
+  * 1-2pm (Andy)
 
 #### Labs
-TBD
+* Lab 1: Thursdays 8-9:30pm
+* Lab 2: Fridays 8:45-10:15am
 
-#### Note that all lectures and lab sessions will be recorded and available on the course Canvas site.
+#### Note that all lectures and Lab 2 sessions will be recorded and available on the course Canvas site.
