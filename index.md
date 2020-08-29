@@ -5,12 +5,12 @@ title: Introduction to Data Science
 
 ## BST 260: Introduction to Data Science
 
-#### Lectures
+### Lectures
 
 * Lectures are 9:45-11:15am EST on Mondays & Wednesdays
 * We will be using R for all programming assignments and projects. 
 
-#### Instructor
+### Instructor
 
 Heather Mattie
 
@@ -20,7 +20,7 @@ Heather Mattie
 * Office: Building I, 4th floor, Room 421A 
 * Office Hours: Mondays 8-9pm, Tuesdays 1-2pm
 
-#### Teaching Assistants
+### Teaching Assistants
 Andy Shi (andyshi@g.harvard.edu)
 
 Jane Liang (jwliang@g.harvard.edu)
@@ -31,7 +31,7 @@ Lara Maleyeff (lmaleyeff@g.harvard.edu)
 
 Santiago Romero-Brufau (santiagoromerobrufau@hsph.harvard.edu)
 
-#### Office Hours
+### Office Hours
 Monday: 
   * 11:30-12:30pm EST (Kareem)
   * 7-8pm EST (Santiago)
@@ -49,7 +49,7 @@ Thursday:
 Friday:
   * 1-2pm (Andy)
 
-#### Labs
+### Labs
 * Lab 1: Thursdays 8-9:30pm EST
 * Lab 2: Fridays 8:45-10:15am EST
 
