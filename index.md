@@ -47,7 +47,7 @@ Thursday:
   * 8-9am EST (Lara)
   
 Friday:
-  * 1-2pm (Andy)
+  * 1-2pm EST (Andy)
 
 ### Labs
 * Lab 1: Thursdays 8-9:30pm EST
