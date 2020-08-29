@@ -5,7 +5,7 @@ title: Introduction to Data Science
 
 ## BST 260: Introduction to Data Science
 
-#### Lectures and Sections
+#### Lectures
 
 * Lectures are 9:45-11:15am EST on Mondays & Wednesdays
 * We will be using R for all programming assignments and projects. 
@@ -30,24 +30,24 @@ Heather Mattie
 
 #### Office Hours
 Monday: 
-  * 11:30-12:30pm (Kareem)
-  * 7-8pm (Santiago)
-  * 8-9pm (Heather)
+  * 11:30-12:30pm EST (Kareem)
+  * 7-8pm EST (Santiago)
+  * 8-9pm EST (Heather)
   
 Tuesday:
-  * 1-2pm (Heather)
+  * 1-2pm EST (Heather)
   
 Wednesday:
-  * 1-2pm (Jane)
+  * 1-2pm EST (Jane)
   
 Thursday:
-  * 8-9am (Lara)
+  * 8-9am EST (Lara)
   
 Friday:
   * 1-2pm (Andy)
 
 #### Labs
-* Lab 1: Thursdays 8-9:30pm
-* Lab 2: Fridays 8:45-10:15am
+* Lab 1: Thursdays 8-9:30pm EST
+* Lab 2: Fridays 8:45-10:15am EST
 
 #### Note that all lectures and Lab 2 sessions will be recorded and available on the course Canvas site.
