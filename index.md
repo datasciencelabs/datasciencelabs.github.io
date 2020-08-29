@@ -17,8 +17,7 @@ Heather Mattie
 * Lecturer on Biostatistics, HCSPH
 * Co-Director, Health Data Science Master's Program, HCSPH
 * Email: hemattie@hsph.harvard.edu
-* Office: Building I, 4th floor, Room 421A 
-* Office Hours: Mondays 8-9pm, Tuesdays 1-2pm
+
 
 ### Teaching Assistants
 Andy Shi (andyshi@g.harvard.edu)
