@@ -49,7 +49,7 @@ Friday:
   * 1-2pm EST (Andy)
 
 ### Labs
-* Lab 1: Thursdays 8-9:30pm EST
-* Lab 2: Fridays 8:45-10:15am EST
+* Lab 1: Mondays 8-9:30am EST
+* Lab 2: Tuesdays 8-9:30pm EST EST
 
-#### Note that all lectures and Lab 2 sessions will be recorded and available on the course Canvas site.
+#### Note that all lectures and Lab sessions will be recorded and available on the course Canvas site.
