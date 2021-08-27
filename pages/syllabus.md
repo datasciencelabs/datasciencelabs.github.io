@@ -3,26 +3,34 @@ layout: page
 title: Syllabus
 ---
 
+#### Course Description
 Unprecedented advances in digital technology during the second half of the 20th and beginning of the 21st centuries is transforming science, including health and biomedical research. Scientific fields that have traditionally relied upon simple data analysis techniques of smaller datasets have been transformed by technologies that continue to expand the possibilities of observing and deciphering massive amounts of data in an unprecedented way. This course includes concepts from Statistics, Computer Science and Software Engineering. We will learn the necessary skills to manage, visualize and analyze data. We will learn concepts such as exploratory data analysis, statistical inference and modeling, machine learning, and visualization. We will also learn the necessary skills to develop data products including R programming, data wrangling, reproducible research, and communicating results.
 
 
-#### Why take this course?
-The goal of this course is to teach students how to answer questions with data. To do this, we will learn the necessary skills to manage and analyze data with case studies. We will learn concepts such as exploratory data analysis, statistical inference and modeling, machine learning, and high-dimensional data analysis. We will also learn the necessary skill to develop data products including R programming, data wrangling, reproducible research, and communicating results. All class material will be motivated with real life examples involving data. We will use the R programming language. 
+#### Learning Objectives
+This class focuses on methods for learning from data, in order to gain useful predictions and insights. Separating signal from noise presents many computational and inferential challenges, which we approach from a perspective at the interface of computer science and statistics. Through real-world examples of wide interest, we introduce methods for five key facets of an investigation:
+1) data munging/scraping/sampling/cleaning in order to construct an informative, manageable data set;
+2) software engineering skills for accessing data as well as organizing data analyses and making these analyses sharable and reproducible;
+3) exploratory data analysis to generate hypotheses and intuition about the data;
+4) inference and prediction based on statistical tools such as modeling, regression, and classification;
+5) communication of results through visualization, stories, and interpretable summaries.
+![image](https://user-images.githubusercontent.com/13842085/131174639-d896a22d-17d0-452f-8567-b3b34f16494b.png)
+ 
 
 #### What is the structure of this course?
 We will learn these concepts through six data analysis projects. Grades will be based on:
 
 * 5 homeworks (40%)
-* 1 "take-home" midterm (25%)
+* 1 take-home midterm (25%)
 * 1 final project (35%)
 
 
 #### Homework Assignments
 All homework assignments will involve writing code and communicating results. **Students must submit the RMarkdown file and knitted html file associated with each assignment in their individual repository**. A private repository for each assignment will be created for each student and will only be visible to the student and course teaching staff. 
 
-Each student is given **six total late days for homework** at the beginning of the semester. A late day extends the individual homework deadline by 24 hours without penalty. **No more than two late days may be used on any one assignment.** Late days are intended to give students flexibility: students can use them for any reason, no questions asked. Student don’t get any bonus points for not using late days. Also, students can only use late days for the individual homework deadlines - all other deadlines (e.g., project milestones, midterm exam) are hard.
+Each student is given two late days per homework assignment. A late day extends the individual homework deadline by 24 hours without penalty. No more than two late days may be used on any one assignment. Late days are intended to give students flexibility: students can use them for any reason, no questions asked. Student don’t get any bonus points for not using late days. Also, students can only use late days for the individual homework deadlines - all other deadlines (e.g., project milestones, midterm exam) are hard.
 
-Although each student is only given a total of 6 late days, we will be accepting homework from students that pass this limit. However, we will be deducting 10% (10 points) for each extra late day. For example, if all late days for the semester have been used, we will deduct 10 points for assignments <24 hours late, and 20 points for assignments 24-48 hours late.
+Although each student is given late days, we will be accepting homework from students that pass this limit. However, we will be deducting 10% (10 points) for each extra late day.
 
 **Due to the unpredictable nature of COVID-19 students in need of extra time to complete assignments should reach out to Student Affairs at StudentAffairs@hsph.harvard.edu. A staff member will work with you and Dr. Mattie to accommodate you. You can also contact Student Affairs if you have a learning disability that requires accommodations. We will ensure you are accommodated as needed.**
 
@@ -55,10 +63,10 @@ None. Instead, we have a list of recommended readings on the web site.
 
 #### Course Communication
 We will use Slack to organize course discussions. Each lecture will have a channel that
-will be monitored by the TAs during class. Feel free to ask questions during class, or anytime. [Join Slack here!](https://join.slack.com/t/bst260fall2020/shared_invite/zt-h3h79jsx-NxPFivaQXVKs0gyn_WnugA) More information on how to use Slack is posted on our [Resources](http://datasciencelabs.github.io/pages/resources.html) page.
+will be monitored by the TAs during class. Feel free to ask questions during class, or anytime. [Join Slack here!](https://join.slack.com/t/bst260-fall2021/shared_invite/zt-uszwbyk7-T_ef90GEwDvjYdb1Cu60MQ) More information on how to use Slack is posted on our [Resources](http://datasciencelabs.github.io/pages/resources.html) page.
 
 #### Schedule 
 
 As topics are discussed in class, links to the lecture material will be posted below.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR4ZO2Uw212EWnfKNRPa2Xx2t_HxGRg8r0X-FddEHhNZf5959S8z-uHtK_q8-A7ZBYNPNeqb7KkyXwm/pubhtml?gid=0&single=true" width="100%" height="800"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRY1Z4XQZEH_VgZOfyclCS8jzrn08QlYZxZUWpSYejogyWpg-JtWBoeloO-SuF3jZYCou1BIkJOcVK_/pubhtml?gid=0&single=true" width="100%" height="800"></iframe>
