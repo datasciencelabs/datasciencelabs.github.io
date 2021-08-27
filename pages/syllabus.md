@@ -14,8 +14,7 @@ This class focuses on methods for learning from data, in order to gain useful pr
 3) exploratory data analysis to generate hypotheses and intuition about the data;
 4) inference and prediction based on statistical tools such as modeling, regression, and classification;
 5) communication of results through visualization, stories, and interpretable summaries.
-![image](https://user-images.githubusercontent.com/13842085/131174639-d896a22d-17d0-452f-8567-b3b34f16494b.png)
- 
+
 
 #### What is the structure of this course?
 We will learn these concepts through six data analysis projects. Grades will be based on:
