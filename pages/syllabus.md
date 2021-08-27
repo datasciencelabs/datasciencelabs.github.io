@@ -52,9 +52,6 @@ A take-home midterm will be distributed in the form of an RMarkdown file in Octo
 ### Final Project 
 See [Project](https://datasciencelabs.github.io/pages/projects.html) tab on course website.
 
-#### Prerequisites
-Must have basic programming knowledge, and statistics knowledge at the level of Stat 100 or above.
-
 #### Required Textbook
 None. Instead, we have a list of recommended readings on the web site.
 
