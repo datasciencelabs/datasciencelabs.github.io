@@ -11,21 +11,12 @@ title: Introduction to Data Science
 * We will be using R for all programming assignments and projects. 
 
 ### Instructor
-
-Heather Mattie
-
-* Lecturer on Biostatistics, HCSPH
-* Co-Director, Health Data Science Master's Program, HCSPH
-* Email: hemattie@hsph.harvard.edu
-
-
-# Instructor
 * Dr. Heather Mattie
 * Lecturer on Biostatistics
 * Co-Director, Health Data Science Master's Program
 * hemattie@hsph.harvard.edu
 
-# Teaching Assistants
+### Teaching Assistants
 
 * Rolando Acosta      	racosta@fas.harvard.edu
 * Jonathan Luu	jluu@g.harvard.edu
@@ -33,7 +24,7 @@ Heather Mattie
 * Stephanie Wu        	stephaniewu@fas.harvard.edu
 * Luli Zou	zou@g.harvard.edu
 
-# Office Hours
+### Office Hours
 
 Note: all office hours will be held in-person AND online via Zoom links in Canvas.
 
@@ -46,7 +37,7 @@ Note: all office hours will be held in-person AND online via Zoom links in Canva
 | Wednesday   | 8:30-9:30am      | Building 1, 4th Floor, Room 421A |
 | Thursday   | 1-2pm    | FXB G03 |
 
-# Labs
+### Labs
 
 | Day      | Time | Location     |
 | :---     |    :----   |    :--- |
