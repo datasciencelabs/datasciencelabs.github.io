@@ -16,8 +16,8 @@ There are a few milestones for the final project. **It is critical to note that
 
 | Date       | Description |
 | ------------- |-------------|
-| November 1 by 11:59pm EST| Form a team and submit a project proposal |
-| November 1 - 19| Project review meeting with your assigned TA |
+| November 8 by 11:59pm EST| Form a team and submit a project proposal |
+| November 8 - 19| Project review meeting with your assigned TA |
 | December 12 by 11:59pm EST| RMarkdown and compiled HTML due |
 | December 12 by 11:59pm EST| Peer assessment due |
 | December 12 by 11:59pm EST| Project webpage and screencast due |
@@ -27,7 +27,7 @@ There are a few milestones for the final project. **It is critical to note that
 There are several deliverables for your project that will be graded individually to make up your final project score.
 
 ### Team Registration and Proposal
-Students start by filling out a google form to define your teams and project proposal. [This form](https://docs.google.com/forms/d/e/1FAIpQLSdXjaDqejTjhTlkrALjLd7gPAwLqukY2SGLbVuJcBHifdHh1g/viewform?usp=sf_link) should be filled out by 11:59pm EST on Monday November 1, 2021. The title and other projects may be changed at a later date if needed. Each team will only need to submit one form. Based on the proposal, a TA will be assigned to each team and will guide students through the rest of the project. Students will schedule a project review meeting with their assigned TA within the following three weeks (November 1-19, 2021). Students should ensure all of your team members are present at the meeting.
+Students start by filling out a google form to define your teams and project proposal. [This form](https://docs.google.com/forms/d/e/1FAIpQLSdXjaDqejTjhTlkrALjLd7gPAwLqukY2SGLbVuJcBHifdHh1g/viewform?usp=sf_link) should be filled out by 11:59pm EST on Monday November 8, 2021. The title and other projects may be changed at a later date if needed. Each team will only need to submit one form. Based on the proposal, a TA will be assigned to each team and will guide students through the rest of the project. Students will schedule a project review meeting with their assigned TA within the following three weeks (November 8-19, 2021). Students should ensure all of your team members are present at the meeting.
 
 ### RMarkdown and HTML Files
 An important part of the project is the RMarkdown and associated HTML file. These will detail the steps taken in developing a solution(s), including how students collected the data, alternative solutions tried, statistical methods used, and insights. Equally important to the final results is how the team got there! The RMarkdown and HTML files are the place you describe and document the space of possibilities explored at each step of the project. We strongly advise you to include many visualizations.
