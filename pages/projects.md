@@ -3,6 +3,7 @@ layout: page
 title: Final Projects
 ---
 
+<!--
 Students will work on a month-long data science project. The goal of the project is to go through the complete data science process to answer questions you have about a topic of your own choosing. You will acquire the data, design your visualizations, run statistical analyses, and communicate results.
 
 
@@ -113,3 +114,4 @@ Here are some examples of successful final projects. **Note**: These projects ca
 3. **Predicting AirBnb Success** ([Website](http://hamelsmu.github.io/AirbnbScrape/), [Screencast](https://www.youtube.com/watch?v=raGjUj5qArc))
 
 
+-->

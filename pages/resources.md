@@ -5,7 +5,8 @@ title: Resources
 
 Resources will be posted here throughout the semester. 
 
-#### R Packages
+<!--#### R Packages
+
 The list of R packages needed for this course can be found [here](https://docs.google.com/document/d/1vOIPVXszwLL3peeyqNkrGPLuhfj_80Q4UyyjJrexcEU/edit?usp=sharing). 
 
 #### Course Communication
@@ -17,3 +18,4 @@ Several channels have been set up for specific parts of the course. Links to the
 #### Harvard VPN
 Harvard offers a VPN for students unable to connect to certain websites. You can find details [here](https://harvard.service-now.com/ithelp?id=kb_article&sys_id=f1a542efdb90d7c483a2f3f7bf9619ec).
 
+-->

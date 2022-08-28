@@ -11,38 +11,26 @@ title: Introduction to Data Science
 * We will be using R for all programming assignments and projects. 
 
 ### Instructor
-* Dr. Heather Mattie
-* Lecturer on Biostatistics
-* Co-Director, Health Data Science Master's Program
-* hemattie@hsph.harvard.edu
-
-### Teaching Assistants
-
-* Rolando Acosta      	racosta@fas.harvard.edu
-* Jonathan Luu	jluu@g.harvard.edu
-* Octavious Talbot    	octavioustalbot@g.harvard.edu
-* Stephanie Wu        	stephaniewu@fas.harvard.edu
-* Luli Zou	zou@g.harvard.edu
-
-### Office Hours
-
-Note: all office hours will be held in-person AND online via Zoom links in Canvas.
-
-| Day      | Time | Location     |
-| :---     |    :----   |    :--- |
-| Monday   | 1-2pm      | FXB G03 |
-| Monday   | 2-3pm      | FXB G03 |
-| Tuesday   | 11am-12pm   | Kresge 205 |
-| Wednesday   | 8:30-9:30am      | Building 1, 4th Floor, Room 421A |
-| Thursday   | 1-2pm    | FXB G03 |
-
-### Labs
-
-| Day      | Time | Location     |
-| :---     |    :----   |    :--- |
-| Wednesday   | 2-3:30pm      | Fall 1: Kresge 200| 
-|             |               | Fall 2: Kresge 502 |
-| Thursday    | 3:45-5:15pm   | Online - Zoom link in Canvas |
+* [Rafael A. Irizarry](http://rafalab.github.io)
+* [http://rafalab.github.io](http://rafalab.github.io)
 
 
-#### Note that all lectures and Lab sessions will be recorded and available on the course Canvas site.
+# Teaching Assistants
+
+* Jill Lundell
+* Kareem Carr
+* Izzy Grabski
+* Luli Zou
+
+# Drop-in Hours
+
+|Person | Day      | Time | Location     |
+| :---  | :----   |    :----   |    :--- |
+| Rafael | Wednesday   | 9:00-9:45am      | HSPH Courtyard  |
+| Rafael | By appointment   | 1-2pm    | Zoom |
+
+# Labs
+
+TBA
+
+

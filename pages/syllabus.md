@@ -3,6 +3,9 @@ layout: page
 title: Syllabus
 ---
 
+Coming soon
+
+<!--
 #### Course Description
 Unprecedented advances in digital technology during the second half of the 20th and beginning of the 21st centuries is transforming science, including health and biomedical research. Scientific fields that have traditionally relied upon simple data analysis techniques of smaller datasets have been transformed by technologies that continue to expand the possibilities of observing and deciphering massive amounts of data in an unprecedented way. This course includes concepts from Statistics, Computer Science and Software Engineering. We will learn the necessary skills to manage, visualize and analyze data. We will learn concepts such as exploratory data analysis, statistical inference and modeling, machine learning, and visualization. We will also learn the necessary skills to develop data products including R programming, data wrangling, reproducible research, and communicating results.
 
@@ -66,3 +69,5 @@ will be monitored by the TAs during class. Feel free to ask questions during cla
 As topics are discussed in class, links to the lecture material will be posted below.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRY1Z4XQZEH_VgZOfyclCS8jzrn08QlYZxZUWpSYejogyWpg-JtWBoeloO-SuF3jZYCou1BIkJOcVK_/pubhtml?gid=0&single=true" width="100%" height="800"></iframe>
+
+-->
