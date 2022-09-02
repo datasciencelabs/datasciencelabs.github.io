@@ -15,22 +15,22 @@ title: Introduction to Data Science
 * [http://rafalab.github.io](http://rafalab.github.io)
 
 
-# Teaching Assistants
+### Teaching Assistants
 
 * Jill Lundell
 * Kareem Carr
 * Izzy Grabski
 * Luli Zou
 
-# Drop-in Hours
+### Drop-in Hours
 
 |Person | Day      | Time | Location     |
 | :---  | :----   |    :----   |    :--- |
 | Rafael | Wednesday   | 9:00-9:45am      | HSPH Courtyard  |
 | Rafael | By appointment   | 1-2pm    | Zoom |
 
-# Labs
+### Labs
 
-TBA
+* Labs are 2:00-3:30pm EST on Wednesday in Kresge 201
 
 
