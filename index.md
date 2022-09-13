@@ -16,16 +16,25 @@ title: Introduction to Data Science
 -   Lectures are 9:45-11:15am EST on Mondays & Wednesdays
 -   We will be using R for all programming assignments and projects.
 
+<<<<<<< HEAD
 ### Labs
+=======
+### Teaching Assistants
+>>>>>>> b4c7ea101a79fb377288df4c2b242d4e03e8506e
 
 -   Labs are Wednesday 2:00-3:30PM Kresge 201
 -   We will announce in Slack if there is no lab on a particular week
 
+<<<<<<< HEAD
 ### Instructor
+=======
+### Drop-in Hours
+>>>>>>> b4c7ea101a79fb377288df4c2b242d4e03e8506e
 
 -   [Rafael A. Irizarry](http://rafalab.github.io)
 -   <http://rafalab.github.io>
 
+<<<<<<< HEAD
 ### Teaching Assistants
 
 -   Jill Lundell
@@ -33,6 +42,11 @@ title: Introduction to Data Science
 -   Izzy Grabski
 -   Luli Zou
 -   Ana Betty Villaseñor Altamirano
+=======
+### Labs
+
+* Labs are 2:00-3:30pm EST on Wednesday in Kresge 201
+>>>>>>> b4c7ea101a79fb377288df4c2b242d4e03e8506e
 
 ### Drop-in Hours
 

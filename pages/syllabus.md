@@ -3,7 +3,15 @@ layout: page
 title: Syllabus
 ---
 
-Coming soon
+#### Grading Breakdown
+
+* 15% Problem set 1: R and visualization
+* 10% Midterm 1: Probability and Statistics with a computer
+* 15% Problem set 2: Predict the 2022 US election
+* 5% Final project proposal
+* 10% Midterm 2: Regression analysis
+* 15% Problem set 3: Machine learning challenge
+* 30% Final Project
 
 <!--
 #### Course Description
