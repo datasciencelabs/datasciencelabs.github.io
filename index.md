@@ -44,7 +44,7 @@ title: Introduction to Data Science
 |:-------|:----------|:--------------|:-----------------------------------------------------------------------------------|
 | Kareem | Monday    | 8:30-9:30 AM  | Kresge 201 (except for 11/7 which will be in FXB G13)                              |
 | Izzy   | Monday    | 1:00-2:00 PM  | Kresge LL6                                                                         |
-| Ana    | Tuesday   | 3:00-4:00 PM  | [Zoom](https://harvard.zoom.us/j/96788737157?pwd=aUdHdVlJMXE0VWdUY050U1lGU2EyUT09) |
+| Ana    | Tuesday   | 3:30-4:30 PM  | Kresge 202B or [Zoom](https://harvard.zoom.us/j/96788737157?pwd=aUdHdVlJMXE0VWdUY050U1lGU2EyUT09) |
 | Rafa   | Wednesday | 8:30-9:30 AM  | FXB G10                                                                            |
 | Jill   | Thursday  | 12:00-1:00 PM | [Zoom](https://harvard.zoom.us/j/93138058570?pwd=Q20xaU04T09xY1lPTGN4Rlp1b0Vudz09) |
 | Luli   | Friday    | 1:00-2:00 PM  | Kresge 204                                                                         |
